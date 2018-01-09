@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+  <h2 title="I'm a header">Monique's Introduction to Per Scholas Webpage</h2>
+
+<meta charset="utf-8" />
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<style type="text/css">
+	body {
+	background-color: #800080;
+	margin: 0;
+	padding: 0;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	}
+	div {
+	width: 600px;
+	margin: 5em auto;
+	padding: 50px;
+	background-color #fff;
+	border-radius: 1em;
+	}
+	a:link, a:visited {
+	color: #38488f;
+	text-decoration: none;
+	}
+	@media (max-width: 700px) {
+	body {
+		background-color: #fff;
+	}
+	div {
+		width: auto;
+		margin: 0 auto;
+		border-radius: 0;
+		padding: 1em;
+	}
+	}
+	</style>
+  <p>
+    Hey! It's Monique.  My friends call me MoJo.  I am a technical trainer.  
+	Usually, I am working in the hardware field, teaching people how to build, fix and troubleshoot computers.  
+	I am REALLY interested in learning how to code so that I can teach other people how to do it.  
+	I think that coding is a very GREAT field in IT because of the flexibility of work schedule that it provides.  
+	</p>
+	<p>
+	Most of the information that I know about computers was self taught.  
+	I started with learning Microsoft Office and then branched out from there.  
+	My motto is "If you can read it, hear it or view it, you can KNOW it, like MoJoKnowz!
+	
+	I am super excited about the thought of teaching for Per Scholas.  In  this video, you can see where I planted the seed about teaching people about computers during an interview with the Arthur Blank Foundation. 
+
+</p>
+<h3 title="I'm a header">Per Scholas Comes To The Westside of Atlanta</h3>
+			<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBlankFamilyFoundation%2Fvideos%2F379995055504575%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+
+			<h3 title="I'm a header">If you want to follow my coding journey, enter your details below to be added to my newsletter!</h3>			
+	<form>
+<p> Name: <input type="text"> </P	
+<p> Email: <input type="text"> </P	
+</body>
+
+</html>	
